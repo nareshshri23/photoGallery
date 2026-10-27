@@ -17,17 +17,3 @@ A responsive photo gallery built with React, Vite, and Tailwind CSS.
 ```bash
 npm install
 npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
-
-## Technologies
-
-- React
-- Vite
-- Tailwind CSS
-- Picsum Photos API
